@@ -1,6 +1,6 @@
 # Semaphore Resource
 
-A wrapper around Discord's [semaphore](discord/semaphore) library.
+A wrapper around Discord's [semaphore](https://github.com/discord/semaphore) library.
 
 ## Installation
 
